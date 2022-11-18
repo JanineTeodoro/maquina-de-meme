@@ -31,5 +31,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 A Máquina de Memes é uma plataforma web que possibilidade a produção personalizada de memes e disponibiliza para download 🖨️.
-
-Você pode visualizar a página web do projeto através [DESSE LINK](https://janineteodoro.github.io/maquina-de-meme/).
